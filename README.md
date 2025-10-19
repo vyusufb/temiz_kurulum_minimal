@@ -79,4 +79,4 @@ Betiği kendi ihtiyaçlarınıza göre kolayca düzenleyebilirsiniz. `kali_dev_s
 * `apt_packages` listesine yeni APT paketleri ekleyebilir/çıkarabilirsiniz.
 * `pip_packages` listesine yeni Python kütüphaneleri ekleyebilir/çıkarabilirsiniz.
 
-Made bu vyusufb
+Made by vyusufb
